@@ -1,2 +1,2 @@
 # PRP
-**P**redictive Idle **R**obot Re**p**ositioning in Warehouses
+Predictive Idle Robot Repositioning in Warehouses
